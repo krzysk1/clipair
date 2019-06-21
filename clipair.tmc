@@ -1,0 +1,34 @@
+﻿<[file][][]
+    <[object][][]
+        <[int][Version][210]>
+        <[vec32array][ContactSpheres][ ( 7.75 8.51 -2.74 0.034) ( 7.75 -8.51 -2.74 0.034) ( -1.94 8.51 -2.75 0.034)( -1.94 -8.51 -2.75 0.034) ]>
+        <[string8][DisplayName][Clip-Air]>
+        <[string8][DescriptionTextEN][Clip-Air is a modular-aircraft concept comprising a flying-wing carrying up to three autonomous passenger or cargo capsules that look like airliner fuselages, but are actually railcars. Passengers would be able to embark or disembark at rail stations, as well as the airports, says EPFL, and cargo capsules could go direct between production sites and the aircraft. The capsules are about 30m long and weigh around 30 tons, The Clip-Air flying wing would be able to carry three 150-passenger modules 4,000km - "as many passengers as three A320s, with half the engines," EPFL says. 
+Made by Krzysztof Kaniewski. 3D model by Krzysztof Kaniewski.]>
+		<[float64][WingSpan][60.2]>
+		<[float64][Mass][105000]>
+		<[float64][MaximumSpeed][500]>
+		<[float64][MinimumSpeed][75.0]>
+        <[float64][ApproachSpeed][21.0]>
+        <[float64][CruiseSpeed]  [56.0]>
+		<[tmvector2d][NormalSpeedRange][ 75.0 220.0 ]>
+		<[tmvector2d][CautionSpeedRange][ 220.0 262.0 ]>	
+		<[tmvector2d][FlapSpeedRange][ 70.00 102.88 ]>	
+        <[float64][MaximumAltitude][5000.0]>
+        <[float64][CruiseAltitude] [1826.0]>
+        <[float64][QSpan][8.8]>
+        <[float64][QMass][940.0]>
+        <[float64][QSpeed][82.5]>
+        <[float64][QPower][120000.0]>
+        <[float64][QThrust][0.0]>
+        <[float64][QRange][610000.0]>
+        <[float64][QRatio][0.0]>
+        <[float64][QBuild][1400]>
+        <[float64][QVirgin][1959]>
+		<[bool][Airplane][true]>
+		<[bool][Jet][true]>
+		<[bool][Flaps][true]>
+		<[bool][Retracts][true]>
+		<[bool][ThrustReverse][true]>
+    >
+>
