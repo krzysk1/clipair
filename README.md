@@ -1,1 +1,4 @@
 # clipair
+Clip-Air is a modular-aircraft concept comprising a flying-wing carrying up to three autonomous passenger or cargo capsules that look like airliner fuselages, but are actually railcars. Passengers would be able to embark or disembark at rail stations, as well as the airports, says EPFL, and cargo capsules could go direct between production sites and the aircraft. The capsules are about 30m long and weigh around 30 tons, The Clip-Air flying wing would be able to carry three 150-passenger modules 4,000km - "as many passengers as three A320s, with half the engines," EPFL says. 
+
+Made by Krzysztof Kaniewski. 3D model by Krzysztof Kaniewski.
